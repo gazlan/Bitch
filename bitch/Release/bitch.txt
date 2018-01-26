@@ -1,0 +1,8 @@
+-*-   Bitch 1.1   *   Copyright (c) Gazlan, 2011   -*-
+
+SGDT decryptor
+
+Usage: bitch.com wildcards
+
+complains_n_suggestions direct to gazlan@yandex.ru
+
